@@ -1,0 +1,6 @@
+{
+  "name": "Zoya",
+  "description": "Real-time AI voice assistant with a sassy personality powered by Gemini Live",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
